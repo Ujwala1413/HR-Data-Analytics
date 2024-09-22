@@ -50,23 +50,31 @@ Employees with Bachelor’s degrees have the highest attrition (99 individuals),
 Master's degree holders also have a notable attrition count (58), suggesting room for improvement in employee engagement.
 
 ### 3. Attrition by Job Role
+![image](https://github.com/user-attachments/assets/7b5f3249-519b-41e7-b70e-9704100211fa)
+
 Managers (62) and Sales Executives (57) experience the highest attrition, highlighting significant challenges in these roles, possibly due to job stress or unmet career expectations. 
 This suggests the need for improved leadership training and support.
 
 ### 4. Attrition by Age Group
+![image](https://github.com/user-attachments/assets/8331fb18-70c4-4edf-874f-085a96c7bbd2)
+
 The 25-34 age group shows the highest attrition (112 individuals), followed by 35-44 (51 individuals), indicating that younger employees are more likely to leave, likely in search of better opportunities. 
 Retention strategies should focus on career growth for younger staff.
 
 ### 5. Gender Distribution of Employees
-![image](https://github.com/user-attachments/assets/0059c59d-6c70-4eca-907a-5e041ea94963)
+![image](https://github.com/user-attachments/assets/e341bcf8-2c4d-43cc-9adc-8c7b7f033da5)
 
 Male employees (882) outnumber female employees (588), but the dashboard does not show significant gender-based attrition differences. 
 This could indicate gender balance in retention but further analysis may be required.
 
 ### 6. Attrition by Marital Status
+![image](https://github.com/user-attachments/assets/a91dfe24-0cb6-43ab-bf17-d740febeb475)
+
 Married employees have the highest attrition rate (45.78%), followed by single employees (31.97%). 
 This suggests the need for work-life balance programs or family-friendly policies to retain married staff.
 
 ### 7. Department-wise Attrition
+![image](https://github.com/user-attachments/assets/8e4a8bab-b96f-4687-9d3b-6c33b915bfe9)
+
 The Sales department accounts for 56.12% of total attrition, followed by R&D (38.82%) and HR (5.06%), suggesting that sales-specific issues like targets or compensation may drive turnover. 
 A closer look at departmental policies is required to address this.
