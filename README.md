@@ -38,6 +38,7 @@ Represented the distribution of employees by gender, department-wise attrition, 
 
 ## Key Insights
 ### 1. Overall Attrition Rate (16.12%)
+![image](https://github.com/user-attachments/assets/99aadc3b-8b51-4e3d-a07d-9755f952f8c8)
 The company has a relatively high attrition rate of 16.12%, which signals a pressing need to investigate underlying causes, such as job satisfaction, currently rated at 2.6/5. 
 Addressing this issue can improve retention and reduce costs.
 
