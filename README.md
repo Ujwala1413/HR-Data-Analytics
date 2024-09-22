@@ -44,6 +44,8 @@ The company has a relatively high attrition rate of 16.12%, which signals a pres
 Addressing this issue can improve retention and reduce costs.
 
 ### 2. Attrition by Education Level
+![image](https://github.com/user-attachments/assets/9b40051f-34aa-4492-8c40-4c0bfb24fda4)
+
 Employees with Bachelor’s degrees have the highest attrition (99 individuals), indicating possible dissatisfaction with career development or job roles. 
 Master's degree holders also have a notable attrition count (58), suggesting room for improvement in employee engagement.
 
