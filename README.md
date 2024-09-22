@@ -54,6 +54,7 @@ The 25-34 age group shows the highest attrition (112 individuals), followed by 3
 Retention strategies should focus on career growth for younger staff.
 
 ### 5. Gender Distribution of Employees
+![image](https://github.com/user-attachments/assets/0059c59d-6c70-4eca-907a-5e041ea94963)
 Male employees (882) outnumber female employees (588), but the dashboard does not show significant gender-based attrition differences. 
 This could indicate gender balance in retention but further analysis may be required.
 
