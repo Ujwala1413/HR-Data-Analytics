@@ -1,5 +1,6 @@
 # HR DATA ANALYSIS
 
+## Snapshot of Dashboard: ![image](https://github.com/user-attachments/assets/5f64496a-ce2f-406c-a166-e145a5c0ddee)
 ## Problem Statement
 The company is experiencing a high employee attrition rate of 16.12%, leading to significant turnover costs and disruptions in business operations. 
 This HR analytics project aims to identify key factors contributing to employee attrition by analyzing various demographic, educational, and job-related data points. 
